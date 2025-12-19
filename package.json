@@ -1,0 +1,31 @@
+{
+  "name": "hw-15-16-4-semester-",
+  "version": "1.0.0",
+  "description": "четвертий семестр",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sheremetkyryl/hw-15-16-4-semester-.git"
+  },
+  "keywords": [],
+  "author": "Sheremet Kyryl <kruisher@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sheremetkyryl/hw-15-16-4-semester-/issues"
+  },
+  "homepage": "https://github.com/sheremetkyryl/hw-15-16-4-semester-#readme",
+  "devDependencies": {
+    "@parcel/transformer-inline-string": "^2.16.3",
+    "parcel": "^2.16.3"
+  },
+  "dependencies": {
+    "@pnotify/core": "^5.2.0",
+    "handlebars": "^4.7.8",
+    "lodash.debounce": "^4.0.8"
+  }
+}
